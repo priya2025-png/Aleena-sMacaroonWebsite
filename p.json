@@ -7,7 +7,7 @@
   "name": "macaroon-website",
   "version": "1.0.0",
   "description": "Website for selling macaroons",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "node index.html"
   },
