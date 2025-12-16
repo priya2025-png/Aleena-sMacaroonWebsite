@@ -1,3 +1,1 @@
-"scripts": {
-  "start": "node index.js"
-}
+console.log("Macaroon website server is running...");
