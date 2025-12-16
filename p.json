@@ -9,7 +9,7 @@
   "description": "Website for selling macaroons",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.html"
   },
   "dependencies": {
     "express": "^4.18.2"
